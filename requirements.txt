@@ -1,0 +1,4 @@
+vk_api==11.9.9
+Flask==3.0.2
+gunicorn==21.2.0
+requests==2.31.0
